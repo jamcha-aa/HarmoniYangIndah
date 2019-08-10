@@ -18,6 +18,8 @@ type: docs
 画面左上の「≡」で目次の表示/非表示ができます。  
 
 
+この作品は多分フィクションです。
+
 <br>
 Copyright (c) 2019 jamcha (jamcha.aa@gmail.com).  
 
