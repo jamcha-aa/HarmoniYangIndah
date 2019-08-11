@@ -4,7 +4,7 @@ type: docs
 ---
 
 <div align="center"><img src="./hero.png" alt="top-image"></div>
-<h1 align="center">山本太郎の 8 年間と『れいわ』の 4 ヶ月</h1>
+<h1 align="center">平成 24 年の山本太郎と『れいわ新選組』の 4 ヶ月</h1>
 <h3 align="center"><font color="gray"></font></h3>
 
 <p align="center">
