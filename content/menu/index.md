@@ -9,3 +9,4 @@ headless: true
 - [03 - 公選はがき！？]({{< relref "/docs/03.md" >}})
 - [04 - 財政健全化と国体護持]({{< relref "/docs/04.md" >}})
 - [05 - 憎悪の商店街]({{< relref "/docs/05.md" >}})
+- [06 - 「これ、いつ放送するんですか？」]({{< relref "/docs/06.md" >}})
