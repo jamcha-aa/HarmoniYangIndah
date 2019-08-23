@@ -10,3 +10,4 @@ headless: true
 - [04 - 財政健全化と国体護持]({{< relref "/docs/04.md" >}})
 - [05 - 憎悪の商店街]({{< relref "/docs/05.md" >}})
 - [06 - 「これ、いつ放送するんですか？」]({{< relref "/docs/06.md" >}})
+- [07 - 決まれば速い]({{< relref "/docs/07.md" >}})
